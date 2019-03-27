@@ -1,0 +1,62 @@
+{
+   "typeResident": [
+    {
+      "id": 1,
+      "name": "Frontalier"
+    },
+    {
+      "id": 2,
+      "name": "Résident canton de Genève"
+    },
+    {
+      "id": 3,
+      "name": "Résident Suisse hors canton Genève"
+    }
+  ],
+   "etatCivil": [
+    {
+      "id": 1,
+      "name": "Célibataire"
+    },
+    {
+      "id": 2,
+      "name": "Marié"
+    },
+    {
+      "id": 3,
+      "name": "Divorcé"
+    },
+    {
+      "id": 4,
+      "name": "Séparé"
+    },
+    {
+      "id": 5,
+      "name": "Veuf"
+    }
+  ],
+   "typeFonctionnaireInt": [
+    {
+      "id": 1,
+      "name": "Liste Barème B"
+    },
+    {
+      "id": 2,
+      "name": "Liste Barème C"
+    }
+  ],
+   "sourceRevenu": [
+    {
+      "id": 1,
+      "name": "à Genève"
+    },
+    {
+      "id": 2,
+      "name": "dans un autre canton Suisse"
+    },
+    {
+      "id": 3,
+      "name": "à l'étranger"
+    }
+  ]
+  }
